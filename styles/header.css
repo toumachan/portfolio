@@ -1,0 +1,21 @@
+/* Header */
+header {
+    background-color: #333;
+    padding: 20px 0;
+}
+
+header nav ul {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 0 30px;
+}
+
+header nav ul li a {
+    font-size: 18px;
+    color: #fff;
+}
+
+header nav ul li a:hover {
+    text-decoration: underline;
+}
